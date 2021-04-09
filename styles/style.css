@@ -5,6 +5,7 @@
 
 body{
     background-color: #2F6673;
+    margin-top: 50px;
 }
 
 .score{
@@ -122,7 +123,11 @@ button#bt-reset{
 }
 
 @media screen and (max-width: 450px){
-    h1{
-        font-size: 40px;
+    #player1{
+        margin-left: 15px;
+    }
+
+    #player2{
+        margin-right: 20px;
     }
 }
