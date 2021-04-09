@@ -92,3 +92,9 @@ button#bt-reset{
 .no-border-botton{
     border-bottom: none;
 }
+
+@media screen and (max-width: 450px){
+    h1{
+        font-size: 40px;
+    }
+}
