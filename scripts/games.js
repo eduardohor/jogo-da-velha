@@ -70,7 +70,7 @@ function chequeDraw(){
 
 function resetGame(){
     board = ['','','','','','','','',''];
-    playerTime = 0;
+    // playerTime = 0;
     simbols = ['o', 'x'];
     draw = false
     gameOver = false;
